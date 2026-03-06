@@ -1342,7 +1342,7 @@ a {
 }
 .cid-vcLuY99qGJ {
   display: flex;
-  background-image: url("../../../assets/images/chatgpt20image20mar2062020262012-45-4120pm-1536x1024.png");
+  background-image: url("../../../assets/images/pexels-wolfgang-weiser-467045605-21412230-2000x1125.jpeg");
 }
 .cid-vcLuY99qGJ .mbr-overlay {
   background-color: #000000;
@@ -1384,6 +1384,10 @@ a {
 .cid-vcLuY99qGJ .mbr-text,
 .cid-vcLuY99qGJ .mbr-section-btn {
   text-align: center;
+  color: #ffffff;
+}
+.cid-vcLuY99qGJ .mbr-section-title {
+  color: #ffffff;
 }
 .cid-vcLuY9aDxH {
   padding-top: 5rem;
